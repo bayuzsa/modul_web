@@ -1,0 +1,26 @@
+{
+  "name": "modul_web",
+  "authors": [
+    "baysptr <bayu.bayusaputra11@gmail.com>"
+  ],
+  "description": "Learn Modul WEB Base",
+  "main": "index.php",
+  "keywords": [
+    "Request",
+    "Study",
+    "Case"
+  ],
+  "license": "MIT",
+  "homepage": "Request Study Case",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awsome": "^5.0.8",
+    "jquery": "^3.3.1"
+  }
+}
